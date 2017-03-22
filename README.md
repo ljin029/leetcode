@@ -2,7 +2,7 @@
 LeetCode Algorithms
 
 ## Algorithms
-* [Bit Manipulation](#Bit Manipulation)
+* [Bit Manipulation](#Bit-Manipulation)
 * Array
 * String
 * Linked List
