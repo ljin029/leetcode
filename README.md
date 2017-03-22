@@ -27,3 +27,6 @@ LeetCode Algorithms
 
 ### Bit Manipulation
 
+| #        | Title           |Solution  | Diffculty  | Tag  |
+| ------------- |:-------------:| -----:| -----:| -----:|
+|136  | Single Number |C |Easy | |
