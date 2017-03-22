@@ -29,4 +29,4 @@ LeetCode Algorithms
 
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|136  | Single Number |C |Easy | |
+|136  | [Single Number](https://leetcode.com/problems/single-number/#/description) |C |Easy | |
