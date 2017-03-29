@@ -38,3 +38,5 @@ LeetCode Algorithms
 |21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.c) |Easy | |
 |23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.c) |Hard | |
 |24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/swapNodesInPairs.c) |Easy | |
+|25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseNodesInKGroup.c) |Hard | |
+
