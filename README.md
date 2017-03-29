@@ -41,4 +41,6 @@ LeetCode Algorithms
 |25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseNodesInKGroup.c) |Hard | |
 |61  | [Rotate List](https://leetcode.com/problems/rotate-list/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/rotateList.c) |Medium | |
 |206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseLinkedList.c) |Easy | |
+|82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/removeDuplicatesFromSortedListII.c) |Medium | |
+|83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/removeDuplicatesFromSortedList.c) |Easy | |
 
