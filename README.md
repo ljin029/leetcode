@@ -45,5 +45,6 @@ LeetCode Algorithms
 |206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseLinkedList.c) |Easy | |
 |82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/removeDuplicatesFromSortedListII.c) |Medium | |
 |83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/removeDuplicatesFromSortedList.c) |Easy | |
+|92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseLinkedListII.c) |Medium | |
 
 </center>
