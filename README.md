@@ -5,7 +5,7 @@ LeetCode Algorithms
 * [Bit Manipulation](#Bit-Manipulation)
 * Array
 * String
-* Linked List
+* [Linked List](#Linked-List)
 * Stack
 * Queue
 * Heap
@@ -30,3 +30,8 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
 |136  | [Single Number](https://leetcode.com/problems/single-number/#/description) |C |Easy | |
+
+### Linked List
+| #        | Title           |Solution  | Diffculty  | Tag  |
+| ------------- |:-------------:| -----:| -----:| -----:|
+|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.c) |Easy | |
