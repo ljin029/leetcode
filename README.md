@@ -32,6 +32,7 @@ LeetCode Algorithms
 |136  | [Single Number](https://leetcode.com/problems/single-number/#/description) |C |Easy | |
 
 ### Linked List
+<center>
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.c) |Medium | |
@@ -43,4 +44,4 @@ LeetCode Algorithms
 |206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseLinkedList.c) |Easy | |
 |82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/removeDuplicatesFromSortedListII.c) |Medium | |
 |83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/removeDuplicatesFromSortedList.c) |Easy | |
-
+</center>
