@@ -2,10 +2,10 @@
 LeetCode Algorithms
 
 ## Algorithms
-* [Bit Manipulation](#Bit-Manipulation)
+* [Bit Manipulation](#bit-manipulation)
 * Array
 * String
-* Linked List
+* [Linked List](#linked-list)
 * Stack
 * Queue
 * Heap
@@ -30,3 +30,11 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
 |136  | [Single Number](https://leetcode.com/problems/single-number/#/description) |C |Easy | |
+
+### Linked List
+| #        | Title           |Solution  | Diffculty  | Tag  |
+| ------------- |:-------------:| -----:| -----:| -----:|
+|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.c) |Medium | |
+|21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.c) |Easy | |
+|23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.c) |Hard | |
+|24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/swapNodesInPairs.c) |Easy | |
