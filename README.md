@@ -2,10 +2,10 @@
 LeetCode Algorithms
 
 ## Algorithms
-* [Bit Manipulation](#Bit-Manipulation)
+* [Bit Manipulation](#bit-manipulation)
 * Array
 * String
-* [Linked List](#Linked-List)
+* [Linked List](#linked-list)
 * Stack
 * Queue
 * Heap
