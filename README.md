@@ -39,4 +39,6 @@ LeetCode Algorithms
 |23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.c) |Hard | |
 |24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/swapNodesInPairs.c) |Easy | |
 |25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseNodesInKGroup.c) |Hard | |
+|61  | [Rotate List](https://leetcode.com/problems/rotate-list/#/description |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/rotateList.c) |Medium | |
+|206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseLinkedList.c) |Easy | |
 
