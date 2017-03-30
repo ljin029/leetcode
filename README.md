@@ -29,7 +29,23 @@ LeetCode Algorithms
 
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|136  | [Single Number](https://leetcode.com/problems/single-number/#/description) |C |Easy | |
+|136  | [Single Number](https://leetcode.com/problems/single-number/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/singleNumber.c) |Easy | |
+|137  | [Single Number II](https://leetcode.com/problems/single-number-ii/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/singleNumberII.c) |Medium | |
+|190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/reverseBits.c) |Easy | |
+|191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/numberOf1Bits.c) |Easy | |
+|201  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/BitwiseAndOfNumbersRange.c) |Medium | |
+|231  | [Power of Two](https://leetcode.com/problems/power-of-two/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/powerOfTwo.c) |Easy | |
+|260  | [Single Number III](https://leetcode.com/problems/single-number-iii/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/singleNumberIII.c) |Medium | |
+|268  | [Missing Number](https://leetcode.com/problems/missing-number/) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/MissingNumber.c) |Medium | |
+|318  | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/MaximumProductOfWordLengths.c) |Medium | |
+|342  | [Power of Four](https://leetcode.com/problems/power-of-four/) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/PowerOfFour.c) |Easy | |
+|371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/SumOfTwoIntegers.c) |Easy | |
+|389  | [Find the Difference](https://leetcode.com/problems/find-the-difference/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/FindTheDifference.c) |Easy | |
+|393  | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/UTF8Validation.c) |Medium | |
+|401  | [Binary Watch](https://leetcode.com/problems/binary-watch/) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/BinaryWatch.c) |Easy | |
+|461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/HammingDistance.c) |Easy | |
+|477  | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/totalHammingDistance.c) |Medium | |
+
 
 ### Linked List
 <center>
