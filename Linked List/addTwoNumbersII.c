@@ -1,4 +1,4 @@
-// Source : https://https://leetcode.com/problems/add-two-numbers-ii/#/solutions
+// Source : https://leetcode.com/problems/add-two-numbers-ii/#/solutions
 // Author : ljin029
 // Date   : 2017-03-30
 
