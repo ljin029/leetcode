@@ -4,13 +4,13 @@ LeetCode Algorithms
 ## Algorithms
 * [Bit Manipulation](#bit-manipulation)
 * Array
-* String
+* [String](#string)
 * [Linked List](#linked-list)
 * Stack
 * Queue
 * Heap
 * Tree
-* Hash Table
+* [Hash Table](#hash-table)
 * Data Structure
 * Math
 * Two Pointers
@@ -48,7 +48,6 @@ LeetCode Algorithms
 
 
 ### Linked List
-<center>
 
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
@@ -69,4 +68,14 @@ LeetCode Algorithms
 |238  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/#/description)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/oddEvenLinkedList.c) |Medium | |
 |445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)|[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbersII.c) |Medium | |
 
-</center>
+### String
+
+| #        | Title           |Solution  | Diffculty  | Tag  |
+| ------------- |:-------------:| -----:| -----:| -----:|
+|387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C](https://github.com/ljin029/leetcode/blob/master/String/firstUniqueCharacterInAString.c) |Easy | |
+
+### Hash Table
+| #        | Title           |Solution  | Diffculty  | Tag  |
+| ------------- |:-------------:| -----:| -----:| -----:|
+|387  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/containDuplicate.c) |Easy | |
+
