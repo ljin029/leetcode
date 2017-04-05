@@ -73,6 +73,7 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
 |5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.c) |Medium | |
+|6  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C](https://github.com/ljin029/leetcode/blob/master/String/zigZagConversion.c) |Easy | |
 |387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C](https://github.com/ljin029/leetcode/blob/master/String/firstUniqueCharacterInAString.c) |Easy | |
 
 ### Hash Table
