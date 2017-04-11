@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/contains-duplicate/
-// Author : Hao Chen
-// Date   : 2015-06-11
+// Author : ljin029
+// Date   : 2017-04-03
 
 /********************************************************************************** 
  * 
