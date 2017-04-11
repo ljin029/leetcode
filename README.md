@@ -82,6 +82,7 @@ LeetCode Algorithms
 |58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[C](https://github.com/ljin029/leetcode/blob/master/String/lengthOfLastWord.c) |Easy | |
 |67  | [Add Binary](https://leetcode.com/problems/add-binary)|[C](https://github.com/ljin029/leetcode/blob/master/String/addBinary.c) |Easy | |
 |125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[C](https://github.com/ljin029/leetcode/blob/master/String/validPalindrome.c.c) |Easy | |
+|151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|[C](https://github.com/ljin029/leetcode/blob/master/String/reverseWordsInAString.c.c) |Medium | |
 |387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C](https://github.com/ljin029/leetcode/blob/master/String/firstUniqueCharacterInAString.c) |Easy | |
 
 ### Hash Table
