@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/reverse-words-in-a-string/
-// Author : Hao Chen, Siwei Xu
-// Date   : 2014-06-16
+// Author : ljin029
+// Date   : 2017-04-10
 
 /********************************************************************************** 
 * 
