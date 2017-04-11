@@ -84,6 +84,7 @@ LeetCode Algorithms
 |125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[C](https://github.com/ljin029/leetcode/blob/master/String/validPalindrome.c) |Easy | |
 |151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|[C](https://github.com/ljin029/leetcode/blob/master/String/reverseWordsInAString.c) |Medium | |
 |165  | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)|[C](https://github.com/ljin029/leetcode/blob/master/String/compareVersionNumbers.c) |Easy | |
+|242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram)|[C](https://github.com/ljin029/leetcode/blob/master/String/validAnagram.c) |Easy | |
 |387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C](https://github.com/ljin029/leetcode/blob/master/String/firstUniqueCharacterInAString.c) |Easy | |
 |557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[C](https://github.com/ljin029/leetcode/blob/master/String/reverseWordsInAStringIII.c) |Easy | |
 
