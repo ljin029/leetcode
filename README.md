@@ -47,9 +47,9 @@ LeetCode Algorithms
 |477  | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/totalHammingDistance.c) |Medium | |
 
 ### Array
-| #        | Title           |Solution  | Diffculty  | Tag  |
-| ------------- |:-------------:| -----:| -----:| -----:|
-|1  | [3 Sum](https://leetcode.com/problems/3sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sum.cpp) |Medium | |
+| #        | Title           |Solution  | Diffculty  | Tag  | Note  |
+| ------------- |:-------------:| -----:| -----:| -----:| -----:|
+|15  | [3 Sum](https://leetcode.com/problems/3sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sum.cpp) |Medium | |Two Pointers|
 
 ### Linked List
 
