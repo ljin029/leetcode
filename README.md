@@ -50,6 +50,7 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:|
 |15  | [3 Sum](https://leetcode.com/problems/3sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sum.cpp) |Medium | |Two Pointers|
+|16  | [3 Sum Closet](https://leetcode.com/problems/3sum-closest)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sumCloset.cpp) |Medium | |Two Pointers|
 
 ### Linked List
 
