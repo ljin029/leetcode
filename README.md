@@ -3,7 +3,7 @@ LeetCode Algorithms
 
 ## Algorithms
 * [Bit Manipulation](#bit-manipulation)
-* Array
+* [Array](#array)
 * [String](#string)
 * [Linked List](#linked-list)
 * Stack
@@ -46,6 +46,10 @@ LeetCode Algorithms
 |461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/HammingDistance.c) |Easy | |
 |477  | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/totalHammingDistance.c) |Medium | |
 
+### Array
+| #        | Title           |Solution  | Diffculty  | Tag  |
+| ------------- |:-------------:| -----:| -----:| -----:|
+|1  | [3 Sum](https://leetcode.com/problems/3sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sum.cpp) |Medium | |
 
 ### Linked List
 
