@@ -92,6 +92,6 @@ LeetCode Algorithms
 ### Hash Table
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|1  | [Two Sum](https://leetcode.com/problems/two-sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/twoSum.cpp) |Easy | |
+|1  | [Two Sum](https://leetcode.com/problems/two-sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/twoSum.cpp) [C](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/twoSum.c)|Easy | |
 |217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/containDuplicate.c) |Easy | |
 
