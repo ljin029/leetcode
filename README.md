@@ -55,6 +55,7 @@ LeetCode Algorithms
 |26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArray.cpp) |Easy | |Two Pointers |
 |27  | [Remove Element](https://leetcode.com/problems/remove-element)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeElement.cpp) |Easy | |Two Pointers |
 |31  | [Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/nextPermutation.cpp) |Medium | |Wiki |
+|41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/firstMissingPositive.cpp) |Hard | | |
 |80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArrayII.cpp) |Medium	 | |Two Pointers |
 
 ### Linked List
