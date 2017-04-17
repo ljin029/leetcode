@@ -59,7 +59,8 @@ LeetCode Algorithms
 |48  | [Rotate Image](https://leetcode.com/problems/rotate-image)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/rotateImage.cpp) |Medium | | |
 |59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/spiralMatrixII.cpp) |Medium | | |
 |64  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/spiralMatrix.cpp) |Medium | | |
-|66  | [Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/spiralMatrix.cpp) |Medium | | |
+|66  | [Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/plusOne.cpp) |Easy | | |
+|73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/setMatrixZeroes.cpp) |Medium | | |
 |80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArrayII.cpp) |Medium	 | |Two Pointers |
 
 ### Linked List
