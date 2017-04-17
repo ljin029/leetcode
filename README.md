@@ -64,6 +64,7 @@ LeetCode Algorithms
 |80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArrayII.cpp) |Medium	 | |Two Pointers |
 |118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangle.cpp) |Easy | | |
 |119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangleII.cpp) |Easy | | |
+|121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/bestTimeToBuyAndSellStock.cpp) |Easy | | |
 
 ### Linked List
 
