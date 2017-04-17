@@ -47,24 +47,25 @@ LeetCode Algorithms
 |477  | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/totalHammingDistance.c) |Medium | |
 
 ### Array
-| #        | Title           |Solution  | Diffculty  | Tag  | Note  |
-| ------------- |:-------------:| -----:| -----:| -----:| -----:|
-|15  | [3 Sum](https://leetcode.com/problems/3sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sum.cpp) |Medium | |Two Pointers |
-|16  | [3 Sum Closet](https://leetcode.com/problems/3sum-closest)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sumCloset.cpp) |Medium | |Two Pointers |
-|18  | [4Sum](https://leetcode.com/problems/4sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/4sum.cpp) |Medium | |Two Pointers and Recursive |
-|26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArray.cpp) |Easy | |Two Pointers |
-|27  | [Remove Element](https://leetcode.com/problems/remove-element)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeElement.cpp) |Easy | |Two Pointers |
-|31  | [Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/nextPermutation.cpp) |Medium | |Wiki |
-|41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/firstMissingPositive.cpp) |Hard | | |
-|48  | [Rotate Image](https://leetcode.com/problems/rotate-image)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/rotateImage.cpp) |Medium | | |
-|59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/spiralMatrixII.cpp) |Medium | | |
-|64  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/spiralMatrix.cpp) |Medium | | |
-|66  | [Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/plusOne.cpp) |Easy | | |
-|73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/setMatrixZeroes.cpp) |Medium | | |
-|80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArrayII.cpp) |Medium	 | |Two Pointers |
-|118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangle.cpp) |Easy | | |
-|119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangleII.cpp) |Easy | | |
-|121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/bestTimeToBuyAndSellStock.cpp) |Easy | | |
+| #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
+|15  | [3 Sum](https://leetcode.com/problems/3sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sum.cpp) |Medium | |Two Pointers | | |
+|16  | [3 Sum Closet](https://leetcode.com/problems/3sum-closest)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/3sumCloset.cpp) |Medium | |Two Pointers | | |
+|18  | [4Sum](https://leetcode.com/problems/4sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/4sum.cpp) |Medium | |Two Pointers and Recursive | | |
+|26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArray.cpp) |Easy | |Two Pointers | | |
+|27  | [Remove Element](https://leetcode.com/problems/remove-element)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeElement.cpp) |Easy | |Two Pointers | | |
+|31  | [Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/nextPermutation.cpp) |Medium | |Wiki | | |
+|41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/firstMissingPositive.cpp) |Hard | | | | |
+|48  | [Rotate Image](https://leetcode.com/problems/rotate-image)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/rotateImage.cpp) |Medium | | | | |
+|59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/spiralMatrixII.cpp) |Medium | | | | |
+|64  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/spiralMatrix.cpp) |Medium | | | | |
+|66  | [Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/plusOne.cpp) |Easy | | | | |
+|73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/setMatrixZeroes.cpp) |Medium | | | | |
+|80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArrayII.cpp) |Medium	 | |Two Pointers | | |
+|118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangle.cpp) |Easy | | | | |
+|119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangleII.cpp) |Easy | | | | |
+|121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/bestTimeToBuyAndSellStock.cpp) |Easy | | | | |
+|128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.cpp) |Hard | |  |O(n) | O(n) |
 
 ### Linked List
 
