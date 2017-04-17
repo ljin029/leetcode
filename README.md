@@ -62,7 +62,8 @@ LeetCode Algorithms
 |66  | [Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/plusOne.cpp) |Easy | | |
 |73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/setMatrixZeroes.cpp) |Medium | | |
 |80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/removeDuplicatesFromSortedArrayII.cpp) |Medium	 | |Two Pointers |
-|118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangle.cpp) |Easy | |Two Pointers |
+|118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangle.cpp) |Easy | | |
+|119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangleII.cpp) |Easy | | |
 
 ### Linked List
 
