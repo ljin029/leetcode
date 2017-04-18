@@ -66,6 +66,7 @@ LeetCode Algorithms
 |119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangleII.cpp) |Easy | | | | |
 |121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/bestTimeToBuyAndSellStock.cpp) |Easy | | | | |
 |128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.cpp) |Hard | |  |O(n) | O(n) |
+|169  | [Majority Element](https://leetcode.com/problems/majority-element)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.cpp) [C](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.c)|Easy | |  |O(n) | O(1) |
 
 ### Linked List
 
