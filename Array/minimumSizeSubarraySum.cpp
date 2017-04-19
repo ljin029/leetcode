@@ -21,7 +21,7 @@
  **********************************************************************************/
 
  /*
-  * Sliding window solution. It is required to find the contiguous subarray so that two pointers were used
+  * Sliding window solution for O(n) solution. It is required to find the contiguous subarray so that two pointers were used
   * to track the subarray as sliding window. The "right" pointer was used to track the sum which is < s. The "left" pointer was
   * used to track the sum which is >= s. The minimal length of a contiguous subarray will be found until
   * the "right" or/and "left" pointer reaches the boundary.
