@@ -69,6 +69,7 @@ LeetCode Algorithms
 |169  | [Majority Element](https://leetcode.com/problems/majority-element)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.cpp)/ [C](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.c)|Easy | |  |O(n) | O(1) |
 |189  | [Rotate Array](https://leetcode.com/problems/rotate-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/rotateArray.cpp)|Easy | |  |O(n) | O(1) |
 |209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/minimumSizeSubarraySum.cpp)/[C](https://github.com/ljin029/leetcode/blob/master/Array/minimumSizeSubarraySum.c)|Medium | |Two Pointers/Binary Search |O(n)/O(n log n) | O(1) |
+|209  | [Summary Ranges](https://leetcode.com/problems/summary-ranges)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/summaryRanges.cpp)|Easy | | |O(n) | O(1) |
 
 ### Linked List
 
