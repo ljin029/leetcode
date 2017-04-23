@@ -19,7 +19,7 @@
  *
  *  1. If nums[i]<1 or nums[i]>n, then nums[i] is not the first missing postive, and skip it 
  *  2. If nums[i]=i+1, then nums[i] is put in the right place
- *  3. If nums[i]!=nums[nums[i]-], and 0<nums[i]<=n, swap the value of nums[nums[i]-1] with nums[i]
+ *  3. If nums[i]!=nums[nums[i]-1], and 0<nums[i]<=n, swap the value of nums[nums[i]-1] with nums[i]
  *  4. If nums[i]=nums[nums[i]-1], it will go infinite loop so that skip the case
  *
  */
