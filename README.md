@@ -66,10 +66,12 @@ LeetCode Algorithms
 |119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/pascalTriangleII.cpp) |Easy | | | | |
 |121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/bestTimeToBuyAndSellStock.cpp) |Easy | | | | |
 |128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.cpp) |Hard | |  |O(n) | O(n) |
-|169  | [Majority Element](https://leetcode.com/problems/majority-element)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.cpp)/ [C](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.c)|Easy | |  |O(n) | O(1) |
+|169  | [Majority Element](https://leetcode.com/problems/majority-element)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/majorityElement.cpp)/ [C](https://github.com/ljin029/leetcode/blob/master/Array/longestConsecutiveSequence.c)|Easy | |  |O(n) | O(1) |
 |189  | [Rotate Array](https://leetcode.com/problems/rotate-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/rotateArray.cpp)|Easy | |  |O(n) | O(1) |
 |209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/minimumSizeSubarraySum.cpp)/[C](https://github.com/ljin029/leetcode/blob/master/Array/minimumSizeSubarraySum.c)|Medium | |Two Pointers/Binary Search |O(n)/O(n log n) | O(1) |
 |209  | [Summary Ranges](https://leetcode.com/problems/summary-ranges)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/summaryRanges.cpp)|Easy | | |O(n) | O(1) |
+|229  | [Majority Element II](https://leetcode.com/problems/majority-element-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/majorityElementII.cpp)|Medium | | |O(n) | O(1) |
+|238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/productOfArrayExceptSelf.cpp)|Medium | | |O(n) | O(1) |
 
 ### Linked List
 
