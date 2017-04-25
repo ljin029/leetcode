@@ -6,7 +6,7 @@ LeetCode Algorithms
 * [Array](#array)
 * [String](#string)
 * [Linked List](#linked-list)
-* Stack
+* [Stack](#stack)
 * Queue
 * Heap
 * Tree
@@ -114,6 +114,12 @@ LeetCode Algorithms
 |273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words)|[C](https://github.com/ljin029/leetcode/blob/master/String/integerToEnglishWords.c) |Hard | |
 |387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C](https://github.com/ljin029/leetcode/blob/master/String/firstUniqueCharacterInAString.c) |Easy | |
 |557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[C](https://github.com/ljin029/leetcode/blob/master/String/reverseWordsInAStringIII.c) |Easy | |
+
+### Stack
+| #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
+|74  | [Simplify Path](https://leetcode.com/problems/simplify-path)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/simplifyPath.cpp)|Medium | | |O(n) | O(n) |
+
 
 ### Hash Table
 | #        | Title           |Solution  | Diffculty  | Tag  |
