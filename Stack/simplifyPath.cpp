@@ -25,8 +25,8 @@
 *  The solution:
 *  1) traverse the whole string to record each dir name
 *  2) two special case:
-        a) if "..", pop the previous push string
-        b) if ".", skip it and do nothing
+*      a) if "..", pop the previous push string
+*      b) if ".", skip it and do nothing
 *
 */
 

@@ -118,7 +118,8 @@ LeetCode Algorithms
 ### Stack
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
-|74  | [Simplify Path](https://leetcode.com/problems/simplify-path)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/simplifyPath.cpp)|Medium | | |O(n) | O(n) |
+|71  | [Simplify Path](https://leetcode.com/problems/simplify-path)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/simplifyPath.cpp)|Medium | | |O(n) | O(n) |
+|101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/symmetricTree.cpp)|Easy | | |O(n) | O(h) |
 
 
 ### Hash Table
