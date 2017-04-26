@@ -14,7 +14,7 @@
  *               
  **********************************************************************************/
 
- /*
+/*
 *  The solution:
 *  left < root < right, using stack to store the left tree for the smallest number in the BST.
 *
