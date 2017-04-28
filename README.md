@@ -132,6 +132,7 @@ LeetCode Algorithms
 |86  | [Partition List](https://leetcode.com/problems/partition-list)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/partitionList.cpp)|Medium | | |O(n) | O(1) |
 |141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/linkedListCycle.cpp)|Medium | | |O(n) | O(1) |
 |142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/linkedListCycleII.cpp)|Medium | | |O(n) | O(1) |
+|143  | [Reorder List](https://leetcode.com/problems/reorder-list)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/reorderList.cpp)|Medium | | |O(n) | O(1) |
 
 
 ### Hash Table
