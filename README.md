@@ -16,7 +16,7 @@ LeetCode Algorithms
 * [Two Pointers](#two-pointers)
 * Sort
 * Recursion
-* Binary Search
+* [Binary Search](#binary-search)
 * Binary Search Tree
 * Breadth-First Search
 * Depth-First Search
@@ -140,6 +140,11 @@ LeetCode Algorithms
 |345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/reverseVowelsOfAString.cpp)|Easy | | |O(n) | O(1) |
 |349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/intersectionOfTwoArrays.cpp)|Easy | | |O(n+m) | O(min(n,m)) |
 |350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/intersectionOfTwoArraysII.cpp)|Easy | |Hash, Binary Search |O(n+m) | O(min(n,m)) |
+
+### Binary Search
+| #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
+| ------------- |:-------------:| -----:| -----:| -----:|
+|35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInsertPosition.cpp)|Medium | |Hash, Binary Search |O(logn) | O(1) |
 
 
 ### Hash Table
