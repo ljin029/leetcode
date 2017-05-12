@@ -144,6 +144,7 @@ LeetCode Algorithms
 ### Binary Search
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:|
+|34  | [Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchForRange.cpp)|Medium | |inary Search |O(logn) | O(1) |
 |35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInsertPosition.cpp)|Medium | |Hash, Binary Search |O(logn) | O(1) |
 
 
