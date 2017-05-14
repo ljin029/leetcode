@@ -13,8 +13,8 @@
 /*
  *	The solution:
  *	Binary search approach.
- *	2) Time:  O(log n)
- *	3) Space: O(1)
+ *	1) Time:  O(log n)
+ *	2) Space: O(1)
  *
  */
 
