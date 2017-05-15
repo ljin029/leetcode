@@ -144,7 +144,8 @@ LeetCode Algorithms
 ### Binary Search
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|34  | [Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchForRange.cpp)|Medium | |inary Search |O(logn) | O(1) |
+|33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInRotatedSortedArray.cpp)|Hard | |Binary Search |O(logn) | O(1) |
+|34  | [Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchForRange.cpp)|Medium | |Binary Search |O(logn) | O(1) |
 |35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInsertPosition.cpp)|Medium | |Hash, Binary Search |O(logn) | O(1) |
 |69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/sqrt.cpp)|Medium | |Binary Search |O(logn) | O(1) |
 |74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/search2DMatrix.cpp)|Medium | |Binary Search |O(logn) | O(1) |
