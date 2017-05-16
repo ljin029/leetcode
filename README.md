@@ -151,6 +151,7 @@ LeetCode Algorithms
 |74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/search2DMatrix.cpp)|Medium | |Binary Search |O(logn) | O(1) |
 |81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInRotatedSortedArrayII.cpp)|Hard | |Binary Search |O(logn) | O(1) |
 |153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/findMinimumInRotatedSortedArray.cpp)|Medium | |Binary Search |O(logn) | O(1) |
+|154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/findMinimumInRotatedSortedArrayII.cpp)|Hard | |Binary Search |O(logn) | O(1) |
 
 
 ### Hash Table
