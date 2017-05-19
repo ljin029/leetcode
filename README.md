@@ -153,6 +153,7 @@ LeetCode Algorithms
 |153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/findMinimumInRotatedSortedArray.cpp)|Medium | |Binary Search |O(logn) | O(1) |
 |154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/findMinimumInRotatedSortedArrayII.cpp)|Hard | |Binary Search |O(logn) | O(1) |
 |162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/findPeakElement.cpp)|Medium | |Binary Search |O(logn) | O(1) |
+|222| [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/countCompleteTreeNodes.cpp)|Medium | |Binary Search |O((logn)^2) | O(1) |
 
 
 ### Hash Table
