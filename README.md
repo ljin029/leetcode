@@ -160,5 +160,6 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
 |1  | [Two Sum](https://leetcode.com/problems/two-sum)|[C++](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/twoSum.cpp) [C](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/twoSum.c)|Easy | |
+|76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[C++](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/minimumWindowSubstring.cpp) |Hard | |
 |217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C](https://github.com/ljin029/leetcode/blob/master/Hash%20Table/containDuplicate.c) |Easy | |
 
