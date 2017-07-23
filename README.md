@@ -144,7 +144,7 @@ LeetCode Algorithms
 
 ### Binary Search
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
-| ------------- |:-------------:| -----:| -----:| -----:|
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInRotatedSortedArray.cpp)|Hard | |Binary Search |O(logn) | O(1) |
 |34  | [Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchForRange.cpp)|Medium | |Binary Search |O(logn) | O(1) |
 |35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInsertPosition.cpp)|Medium | |Hash, Binary Search |O(logn) | O(1) |
@@ -167,6 +167,6 @@ LeetCode Algorithms
 
 ### Math
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
-| ------------- |:-------------:| -----:| -----:| -----:|
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |1  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/ljin029/leetcode/blob/master/Math/reverseInteger.cpp) |Easy | | |O(1) | O(1) |
 
