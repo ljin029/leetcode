@@ -21,7 +21,7 @@ LeetCode Algorithms
 * Breadth-First Search
 * Depth-First Search
 * Backtracking
-* Dynamic Programming
+* [Dynamic Programming](#dynamic-programming)
 * Greedy
 * Design
 
@@ -170,4 +170,9 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |1  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/ljin029/leetcode/blob/master/Math/reverseInteger.cpp) |Easy | | |O(1) | O(1) |
+
+### Dynamic Programming
+| #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
+|72  | [Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/editDistance.cpp) |Hard | | |O(m * n) | O(m + n) |
 
