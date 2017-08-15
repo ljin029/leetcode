@@ -15,7 +15,7 @@ LeetCode Algorithms
 * [Math](#math)
 * [Two Pointers](#two-pointers)
 * Sort
-* Recursion
+* [Recursion](#recursion)
 * [Binary Search](#binary-search)
 * Binary Search Tree
 * Breadth-First Search
@@ -175,4 +175,9 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |72  | [Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/editDistance.cpp) |Hard | | |O(m * n) | O(m + n) |
+
+### Recursion
+| #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
+|72  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](https://github.com/ljin029/leetcode/blob/master/Recursion/convertSortedArrayToBinarySearchTree.cpp) |Medium | | |O(n) | O(log( n)) |
 
