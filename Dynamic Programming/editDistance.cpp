@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/edit-distance/
-// Author : Hao Chen
-// Date   : 2014-08-22
+// Author : ljin029
+// Date   : 2017-08-22
 
 /********************************************************************************** 
 * 

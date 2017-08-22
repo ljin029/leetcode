@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-// Author : Hao Chen
-// Date   : 2014-06-23
+// Author : ljin029
+// Date   : 2017-08-22
 
 /********************************************************************************** 
 * 

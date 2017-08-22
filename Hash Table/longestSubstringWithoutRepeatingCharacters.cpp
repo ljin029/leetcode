@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/
-// Author : Hao Chen
-// Date   : 2014-07-19
+// Author : ljin029
+// Date   : 2017-08-22
 
 /********************************************************************************** 
 * 
