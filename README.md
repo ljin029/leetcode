@@ -72,6 +72,7 @@ LeetCode Algorithms
 |209  | [Summary Ranges](https://leetcode.com/problems/summary-ranges)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/summaryRanges.cpp)|Easy | | |O(n) | O(1) |
 |229  | [Majority Element II](https://leetcode.com/problems/majority-element-ii)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/majorityElementII.cpp)|Medium | | |O(n) | O(1) |
 |238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/productOfArrayExceptSelf.cpp)|Medium | | |O(n) | O(1) |
+|240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Array/search2DMatrix.II.cpp)|Medium | | |O(m + n)	 | O(1) |
 
 ### Linked List
 
