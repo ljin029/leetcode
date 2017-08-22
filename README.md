@@ -171,6 +171,7 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |1  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/ljin029/leetcode/blob/master/Math/reverseInteger.cpp) |Easy | | |O(1) | O(1) |
+|9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/ljin029/leetcode/blob/master/Math/palindromeNumber.cpp) |Easy | | |O(1) | O(1) |
 
 ### Dynamic Programming
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
