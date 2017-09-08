@@ -17,10 +17,10 @@
 /*
  *	The solution:
  *	Binary search approach.
- *    1) If nums[left] < nums[right], no rotation in the array, then return nums[left]
- *    2) If nums[left] < nums[right], then there is rotation in the arry, then check
- *    3) If nums[mid] > nums[left], then the rotation is at the second half of the array
- *    4) Else it is in the first half of the array
+ *	1) If nums[left] < nums[right], no rotation in the array, then return nums[left]
+ *	2) If nums[left] > nums[right], then there is rotation in the arry, then check
+ *	3) If nums[mid] > nums[left], then the rotation is at the second half of the array
+ *	4) Else it is in the first half of the array
  *	5) Time:  O(log n)
  *	6) Space: O(1)
  *
