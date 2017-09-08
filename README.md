@@ -99,11 +99,11 @@ LeetCode Algorithms
 
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.c) [C++](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.cpp) |Medium | |
+|5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.c) |Medium | |
 |6  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C](https://github.com/ljin029/leetcode/blob/master/String/zigZagConversion.c) |Easy | |
 |8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C](https://github.com/ljin029/leetcode/blob/master/String/stringToIntegerAtoi.c) |Easy | |
 |28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[C](https://github.com/ljin029/leetcode/blob/master/String/strStr.c) |Easy | |
-|14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestCommonPrefix.c) |Easy | |
+|14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestCommonPrefix.c) [C++](https://github.com/ljin029/leetcode/blob/master/String/longestCommonPrefix.cpp)  |Easy | |
 |38  | [Count and Say](https://leetcode.com/problems/count-and-say)|[C](https://github.com/ljin029/leetcode/blob/master/String/countAndSay.c) |Easy | |
 |43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings)|[C](https://github.com/ljin029/leetcode/blob/master/String/multiplyStrings.c) |Medium | |
 |58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[C](https://github.com/ljin029/leetcode/blob/master/String/lengthOfLastWord.c) |Easy | |
