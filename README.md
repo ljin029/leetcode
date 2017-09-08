@@ -99,7 +99,7 @@ LeetCode Algorithms
 
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.c) |Medium | |
+|5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.c) [C++](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.cpp) |Medium | |
 |6  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C](https://github.com/ljin029/leetcode/blob/master/String/zigZagConversion.c) |Easy | |
 |8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C](https://github.com/ljin029/leetcode/blob/master/String/stringToIntegerAtoi.c) |Easy | |
 |28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[C](https://github.com/ljin029/leetcode/blob/master/String/strStr.c) |Easy | |
@@ -181,5 +181,6 @@ LeetCode Algorithms
 ### Recursion
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
+|10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/regularExpressionMatching.cpp)|Hard | | |O(n^2) | O(n) |
 |72  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](https://github.com/ljin029/leetcode/blob/master/Recursion/convertSortedArrayToBinarySearchTree.cpp) |Medium | | |O(n) | O(log( n)) |
 
