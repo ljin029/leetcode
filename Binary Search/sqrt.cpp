@@ -15,6 +15,7 @@
  *	Binary search approach: For non-negative n, its sqrt <= x/2+1, search in the range (0, x/2+1]
  *	1) Time:  O(log n)
  *	2) Space: O(1)
+ *    3) Reference: http://www.cnblogs.com/AnnieKim/archive/2013/04/18/3028607.html
  *
  */
 
