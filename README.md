@@ -146,6 +146,7 @@ LeetCode Algorithms
 ### Binary Search
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
+|4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/medianOfTwoSortedArrays.cpp)|Hard | |Binary Search |O(logn+m) | O(1) |
 |33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInRotatedSortedArray.cpp)|Hard | |Binary Search |O(logn) | O(1) |
 |34  | [Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchForRange.cpp)|Medium | |Binary Search |O(logn) | O(1) |
 |35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[C++](https://github.com/ljin029/leetcode/blob/master/Binary%20Search/searchInsertPosition.cpp)|Medium | |Hash, Binary Search |O(logn) | O(1) |
