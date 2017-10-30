@@ -178,7 +178,6 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |72  | [Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/editDistance.cpp) |Hard | | |O(m * n) | O(m + n) |
-| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |132  | [Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/palindromePartitioningII.cpp) |Hard | | |O(n^2) | O(n^2) |
 
 ### Recursion
