@@ -20,7 +20,7 @@ LeetCode Algorithms
 * Binary Search Tree
 * Breadth-First Search
 * Depth-First Search
-* Backtracking
+* [Backtracking](#backtracking)
 * [Dynamic Programming](#dynamic-programming)
 * Greedy
 * Design
@@ -173,6 +173,10 @@ LeetCode Algorithms
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |1  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/ljin029/leetcode/blob/master/Math/reverseInteger.cpp) |Easy | | |O(1) | O(1) |
 |9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/ljin029/leetcode/blob/master/Math/palindromeNumber.cpp)/[C](https://github.com/ljin029/leetcode/blob/master/Math/palindromeNumber.c) |Easy | | |O(1) | O(1) |
+
+### Backtracking
+|17  | [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/palindrome-partitioning/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/letterCombinationsOfAPhoneNumber.cpp) |Medium | | |O(n * 4^n) | O(n) |
+|131  | [Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/palindromePartitioning.cpp) |Medium | | |O(n^2) ~ O(2^n) | O(n^2) |
 
 ### Dynamic Programming
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
