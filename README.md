@@ -99,7 +99,7 @@ LeetCode Algorithms
 
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.c)/[C++](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.cpp) |Medium | |
+|5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.c)/[C++](https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr.cpp/[C++2(https://github.com/ljin029/leetcode/blob/master/String/longestPalindromicSubstr2.cpp) |Medium | |
 |6  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C](https://github.com/ljin029/leetcode/blob/master/String/zigZagConversion.c) |Easy | |
 |8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C](https://github.com/ljin029/leetcode/blob/master/String/stringToIntegerAtoi.c) |Easy | |
 |28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[C](https://github.com/ljin029/leetcode/blob/master/String/strStr.c) |Easy | |
