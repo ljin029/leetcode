@@ -177,7 +177,8 @@ LeetCode Algorithms
 ### Depth-First Search
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
-|112  | [Path Sum](https://oj.leetcode.com/problems/path-sum/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/pathSum.cpp) |Medium | | |O(n)| O(h) |
+|112  | [Path Sum](https://oj.leetcode.com/problems/path-sum/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/pathSum.cpp) |Easy | | |O(n)| O(h) |
+|113  | [Path Sum](https://oj.leetcode.com/problems/path-sum-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/pathSumII.cpp) |Medium | | |O(n)| O(h) |
 
 
 ### Backtracking
