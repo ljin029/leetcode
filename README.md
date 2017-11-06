@@ -19,7 +19,7 @@ LeetCode Algorithms
 * [Binary Search](#binary-search)
 * Binary Search Tree
 * Breadth-First Search
-* Depth-First Search
+* [Depth-First Search](#depth-first search)
 * [Backtracking](#backtracking)
 * [Dynamic Programming](#dynamic-programming)
 * Greedy
@@ -173,6 +173,12 @@ LeetCode Algorithms
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |1  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/ljin029/leetcode/blob/master/Math/reverseInteger.cpp) |Easy | | |O(1) | O(1) |
 |9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/ljin029/leetcode/blob/master/Math/palindromeNumber.cpp)/[C](https://github.com/ljin029/leetcode/blob/master/Math/palindromeNumber.c) |Easy | | |O(1) | O(1) |
+
+### Depth-First Search
+| #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
+|112  | [Path Sum](https://oj.leetcode.com/problems/path-sum/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth-%20First%20Search/letterCombinationsOfAPhoneNumber.cpp) |Medium | | |O(n)| O(h) |
+
 
 ### Backtracking
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
