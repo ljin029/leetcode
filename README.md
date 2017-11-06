@@ -19,7 +19,7 @@ LeetCode Algorithms
 * [Binary Search](#binary-search)
 * Binary Search Tree
 * Breadth-First Search
-* [Depth-First Search](#depth-first search)
+* [Depth-First Search](#depth-first-search)
 * [Backtracking](#backtracking)
 * [Dynamic Programming](#dynamic-programming)
 * Greedy
