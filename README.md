@@ -179,6 +179,8 @@ LeetCode Algorithms
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |112  | [Path Sum](https://oj.leetcode.com/problems/path-sum/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/pathSum.cpp) |Easy | | |O(n)| O(h) |
 |113  | [Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/pathSumII.cpp) |Medium | | |O(n)| O(h) |
+|200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/NumberOfIslands.cpp) |Medium | | |O(n*m)| O(n*m) |
+
 
 
 ### Backtracking
