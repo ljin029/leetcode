@@ -193,6 +193,7 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |10  | [Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/regularExpressionMatching.cpp) |Hard | | |O(m * n) | O(n) |
+|53  | [Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/maximumSubArray.cpp) |Medium | | |O(n) | O(1) |
 |72  | [Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/editDistance.cpp) |Hard | | |O(m * n) | O(m + n) |
 |132  | [Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/palindromePartitioningII.cpp) |Hard | | |O(n^2) | O(n^2) |
 
