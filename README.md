@@ -197,6 +197,7 @@ LeetCode Algorithms
 |62  | [Unique Paths](https://oj.leetcode.com/problems/unique-paths/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/uniquePaths.cpp) |Medium | | |O(m * n) | O(m + n) |
 |63  | [Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/uniquePathsII.cpp) |Medium | | |O(m * n) | O(m + n) |
 |64  | [Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/minimumPathSum.cpp) |Medium | | |O(m * n) | O(m + n) |
+|70  | [Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/climbStairs.cpp) |Easy | | |O(n) | O(1) |
 |72  | [Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/editDistance.cpp) |Hard | | |O(m * n) | O(m + n) |
 |132  | [Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/palindromePartitioningII.cpp) |Hard | | |O(n^2) | O(n^2) |
 
