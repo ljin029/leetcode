@@ -201,6 +201,7 @@ LeetCode Algorithms
 |72  | [Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/editDistance.cpp) |Hard | | |O(m * n) | O(m + n) |
 |87  | [Scramble String](https://oj.leetcode.com/problems/scramble-string/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/scrambleString.cpp) |Hard | | |O(n ^ 4) | O(n ^ 3) |
 |90  | [Decode Ways](https://oj.leetcode.com/problems/decode-ways/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/decodeWays.cpp) |Medium | | |O(n) | O(1) |
+|96  | [Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/uniqueBinarySearchTrees.cpp) |Medium | | |O(n) | O(1) |
 |132  | [Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/palindromePartitioningII.cpp) |Hard | | |O(n^2) | O(n^2) |
 
 ### Recursion
