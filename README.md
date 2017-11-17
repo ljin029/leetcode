@@ -22,7 +22,7 @@ LeetCode Algorithms
 * [Depth-First Search](#depth-first-search)
 * [Backtracking](#backtracking)
 * [Dynamic Programming](#dynamic-programming)
-* Greedy
+* [Greedy](#greedy)
 * Design
 
 ### Bit Manipulation
@@ -211,4 +211,10 @@ LeetCode Algorithms
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/regularExpressionMatching.cpp)|Hard | | |O(n^2) | O(n) |
 |72  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](https://github.com/ljin029/leetcode/blob/master/Recursion/convertSortedArrayToBinarySearchTree.cpp) |Medium | | |O(n) | O(log( n)) |
+
+
+### Greedy
+| #        | Title           |Solution  | Diffculty  | Tag  | Note  | Time |Space |
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
+|122  | [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Greedy/bestTimeToBuyAndSellStockII.cpp) |Medium | | |O(n) | 1 |
 
