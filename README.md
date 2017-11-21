@@ -204,7 +204,7 @@ LeetCode Algorithms
 |96  | [Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/uniqueBinarySearchTrees.cpp) |Medium | | |O(n) | O(1) |
 |97  | [Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/interleavingString.cpp) |Hard | | |O(m * n) | O(m + n) |
 |115  | [Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/distinctSubsequences.cpp) |Hard | | |O(n^2) | O(n) |
-|123  | [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/bestTimeToBuyAndSellStockIII.cpp) |Medium | | |O(n) | 1 |
+|123  | [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/bestTimeToBuyAndSellStockIII.cpp) |Hard | | |O(k * n) | O(k) |
 |132  | [Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Dynamic%20Programming/palindromePartitioningII.cpp) |Hard | | |O(n^2) | O(n^2) |
 
 ### Recursion
