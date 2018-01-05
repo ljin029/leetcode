@@ -78,7 +78,7 @@ LeetCode Algorithms
 
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.c) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.py) |Medium | |
+|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.c) [C++](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.cpp) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.py) |Medium | |
 |21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.c)[Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.py) |Easy | |
 |23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.c) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.py)|Hard | |
 |24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/swapNodesInPairs.c) |Easy | |
