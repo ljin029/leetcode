@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
-// Author : Hao Chen
-// Date   : 2014-06-22
+// Author : ljin029
+// Date   : 2018-06-02
 
 /******************************************************************************
 **** 
