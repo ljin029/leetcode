@@ -78,8 +78,8 @@ LeetCode Algorithms
 
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.c) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.py) |Medium | |
-|21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.c) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.py) |Easy | |
+|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.c) [C++](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.cpp) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.py) |Medium | |
+|21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.c) [C++](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.cpp) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.py) |Easy | |
 |23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.c) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.py)|Hard | |
 |24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/swapNodesInPairs.c) |Easy | |
 |25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseNodesInKGroup.c) |Hard | |
@@ -212,6 +212,7 @@ LeetCode Algorithms
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 |10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[C++](https://github.com/ljin029/leetcode/blob/master/Stack/regularExpressionMatching.cpp)|Hard | | |O(n^2) | O(n) |
 |72  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](https://github.com/ljin029/leetcode/blob/master/Recursion/convertSortedArrayToBinarySearchTree.cpp) |Medium | | |O(n) | O(log( n)) |
+|111  | [	Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](https://github.com/ljin029/leetcode/blob/master/Recursion/minimumDepthOfBinaryTree.cpp) |Easy | | |O(n) | O(h) |
 
 
 ### Greedy
