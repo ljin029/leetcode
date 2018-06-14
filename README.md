@@ -31,7 +31,7 @@ LeetCode Algorithms
 | ------------- |:-------------:| -----:| -----:| -----:|
 |136  | [Single Number](https://leetcode.com/problems/single-number/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/singleNumber.c) |Easy | |
 |137  | [Single Number II](https://leetcode.com/problems/single-number-ii/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/singleNumberII.c) |Medium | |
-|190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/reverseBits.c) |Easy | |
+|190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/reverseBits.c)/[C++](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/reverseBits.cpp) |Easy | |
 |191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/numberOf1Bits.c) |Easy | |
 |201  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/BitwiseAndOfNumbersRange.c) |Medium | |
 |231  | [Power of Two](https://leetcode.com/problems/power-of-two/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/powerOfTwo.c) |Easy | |
@@ -79,7 +79,7 @@ LeetCode Algorithms
 | #        | Title           |Solution  | Diffculty  | Tag  |
 | ------------- |:-------------:| -----:| -----:| -----:|
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.c) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/addTwoNumbers.py) |Medium | |
-|21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.c)[Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.py) |Easy | |
+|21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.c) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeTwoSortedList.py) |Easy | |
 |23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.c) [Python](https://github.com/ljin029/leetcode/blob/master/Linked%20List/mergeKSortedLists.py)|Hard | |
 |24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/swapNodesInPairs.c) |Easy | |
 |25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Linked%20List/reverseNodesInKGroup.c) |Hard | |
