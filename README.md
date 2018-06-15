@@ -32,7 +32,7 @@ LeetCode Algorithms
 |136  | [Single Number](https://leetcode.com/problems/single-number/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/singleNumber.c) |Easy | |
 |137  | [Single Number II](https://leetcode.com/problems/single-number-ii/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/singleNumberII.c) |Medium | |
 |190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/reverseBits.c)/[C++](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/reverseBits.cpp) |Easy | |
-|191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/numberOf1Bits.c) |Easy | |
+|191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/numberOf1Bits.c)/[C++](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/numberOf1Bits.cpp)  |Easy | |
 |201  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/BitwiseAndOfNumbersRange.c) |Medium | |
 |231  | [Power of Two](https://leetcode.com/problems/power-of-two/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/powerOfTwo.c) |Easy | |
 |260  | [Single Number III](https://leetcode.com/problems/single-number-iii/#/description) |[C](https://github.com/ljin029/leetcode/blob/master/Bit%20Manipulation/singleNumberIII.c) |Medium | |
@@ -180,6 +180,7 @@ LeetCode Algorithms
 |112  | [Path Sum](https://oj.leetcode.com/problems/path-sum/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/pathSum.cpp) |Easy | | |O(n)| O(h) |
 |113  | [Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/pathSumII.cpp) |Medium | | |O(n)| O(h) |
 |200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/NumberOfIslands.cpp) |Medium | | |O(n*m)| O(n*m) |
+|257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths//)|[C++](https://github.com/ljin029/leetcode/blob/master/Depth%20First%20Search/binaryTreePaths.cpp) |Easy | | |O(n * h)| O(h) |
 
 
 
